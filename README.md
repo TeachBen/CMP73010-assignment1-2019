@@ -1,3 +1,3 @@
 # CMP73010
-I an Sankar Timalsina 
+I am Sankar Timalsina 
 This is an edit
